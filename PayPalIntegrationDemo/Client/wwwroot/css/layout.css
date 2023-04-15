@@ -1,0 +1,19 @@
+﻿.m-page-container {
+    margin-top: 10px;
+}
+
+.m-textarea {
+    height: 200px !important;
+    resize: none;
+}
+
+.m-scrolable {
+    max-height:500px;
+    overflow:auto;
+}
+
+.m-info {
+    font-style: italic;
+    margin: 10px;
+}
+
